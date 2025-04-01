@@ -123,3 +123,16 @@ body {
     margin: 50 0 20px;
     line-height: 1.2;
 }
+
+.text-container {
+    font-size: 18px;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .header,
+    .header .header-right {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
