@@ -95,7 +95,7 @@ body {
 }
 
 .form-group textarea {
-    height: 100px;
+    height: 100%;
     resize: none;
     margin-bottom: 10px;
 }
