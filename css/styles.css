@@ -136,3 +136,9 @@ body {
         gap: 10px;
     }
 }
+
+.main-content {
+    flex-direction: column-reverse;
+    justify-content: start;
+    margin: auto; 
+}
