@@ -162,8 +162,12 @@ body {
     }
 }
 
-@media (max-height:500px) {
+@media (max-height: 500px) {
     .main-content{
         margin: 0 auto;
+    }
+
+    .main-content h1 {
+        font-size: 40px;
     }
 }
